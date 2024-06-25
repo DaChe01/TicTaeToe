@@ -1,0 +1,1 @@
+This project is a simple implementation of the classic Tic-Tac-Toe game in Java. It allows two players to take turns and play the game on a 3x3 grid. The game checks for wins and draws, and provides feedback if a player tries to place their mark in an occupied or invalid position.
